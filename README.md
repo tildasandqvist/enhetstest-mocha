@@ -1,1 +1,1 @@
-#enhetstest-mocha
+enhetstest-mocha
